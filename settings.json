@@ -1,0 +1,8 @@
+{
+  "database": {
+    "url": "mongodb://setsuna.kr",
+    "db_name": "edammamade",
+    "port": 27017,
+    "source": "admin"
+  }
+}
